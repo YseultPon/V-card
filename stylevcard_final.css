@@ -1,0 +1,74 @@
+body {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 18px;
+	color: #002430;
+	line-height: 1.80;
+	background: url(img/dessin_moi.png) no-repeat top;
+}
+
+.nomyseult {
+	height: 100%;
+	width: 100%;
+}
+.container {
+	height: 198px;
+	width:255px;
+	margin-left: 180px;
+	margin-top: 60px;
+	display: block;
+}
+.txt {
+	height: 400px;
+	width:300px;
+	display: block;
+	float: right;
+	margin-right: 500px;
+	text-indent: left;
+}
+.txt--h1 {
+	margin:0px;
+}
+
+
+/* SOCIAL MEDIA */
+
+.container--socialmedia {
+	height: 200px;
+	width: 50px;
+	list-style: none;
+	float: left;
+	display: inline-block;
+	padding: 0;
+	margin-left: 450px;
+	list-style: none;
+}
+
+.icone {
+	padding: 10px;
+	float: left;
+	display: inline-block;
+}
+
+.icone a{
+	display: inline-block;
+	height: 31px;
+	width: 31px;
+
+}
+.icone a, .icone a:hover, .icone a:focus{
+	opacity: 1;
+}
+
+.dessin {
+	margin-left: 200px;
+	float:right;
+	padding: 50px;
+
+}
+
+.bouchetrou {
+	height: 60px;
+	width:1440px;
+	background-color: white;
+	display: inline;
+}
